@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54522d9d317d61a4ab3adb3b8445356d, type: 3}
+  m_Name: Leather Chest
+  m_EditorClassIdentifier: 
+  ID: 13
+  prefab: {fileID: 919132149155446097, guid: 6e81baef9a1e31a4bafda73985067a50, type: 3}
+  type: 1
+  itemIcon: {fileID: 21300000, guid: 22f138f0786c6874f987e7d8a5df115c, type: 3}
+  itemName: Leather Chest
+  description: 
+  armorPiece: 2
+  model: Chr_Torso_Male_04
+  baseDefence: 2
+  heavy: 0
+  rightUpperArm: Chr_ArmUpperRight_Male_02
+  leftUpperArm: Chr_ArmUpperLeft_Male_02

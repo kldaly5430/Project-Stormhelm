@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fc3f12e960deb240b85f805279f1e2d, type: 3}
+  m_Name: Round Shield
+  m_EditorClassIdentifier: 
+  ID: 0
+  prefab: {fileID: 2342416118773343577, guid: 7260f5bcfadb52e45a882145ac8aacac, type: 3}
+  type: 0
+  itemIcon: {fileID: 21300000, guid: abded91712d2b4144b1e970e5734c8e2, type: 3}
+  itemName: Round Shield
+  description: A small rounded shield
+  unarmed: 0
+  offHand: 1
+  baseDamage: 0
+  rightHandIdle: 
+  leftHandIdle: 
+  OH_Attack_Light_01: 
+  OH_Attack_Heavy_01: 
+  isMelee: 0
+  isShield: 1
